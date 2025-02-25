@@ -9,10 +9,10 @@ Code repository for publications "Global, regional, and national prevalence of a
 **publication_figures**: Code and functions used to create figures and tables used in the publication
 
 
-**Article**: TBD
+**Article**: TBD  
 **Publish date**: March 03, 2025  
 **Authors**: Marie Ng, Emmanuela Gakidou, Justin Lo 
 
-**Article**: TBD
+**Article**: TBD  
 **Publish date**: March 03, 2025  
-**Authors**: Jessica A Kerr
+**Authors**: Jessica A Kerr 
